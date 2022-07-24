@@ -1,0 +1,37 @@
+.contactform{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+}
+.contact__option1{
+
+}
+.contact__option2{
+
+}
+.contact__option3{
+
+}
+.contact__option4{
+
+}
+.contactus{
+    justify-content:left;
+
+}
+.contactus1{
+    display: flex;
+}
+.contactus__option2{
+margin-left: 50px;
+}
+.big{
+    display: flex;
+    background-color: aliceblue;
+}
+input{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid lightgray;
+    
+}
